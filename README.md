@@ -1,3 +1,3 @@
-you can remove all your unanswered requests in instagram with this bot. 
+you can remove all your unanswered requests on Instagram with this bot. 
 add your username and password in (info.py) and run (request.py). 
-program will open the mSEdge and delete one by one of your requests.
+the program will open the mSEdge and delete one by one of your requests.
